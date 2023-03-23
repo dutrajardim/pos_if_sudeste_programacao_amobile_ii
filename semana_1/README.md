@@ -36,16 +36,16 @@ Os arquivos `Home.tsx`, `ItemDetail.tsx` e `ItemForm.tsx` definem as telas da ap
 
 Responável por listar os todos.
 
-![Tela principal](./images/app_tela_principal.png){ width=200px }
+![Tela principal](./images/app_tela_principal.png)
 
 ### Tela detalhes
 
 Responsável por mostrar um todo adicionado em detalhes.
 
-![Tela detalhes](./images/app_tela_detalhar.png){ width=200px }
+![Tela detalhes](./images/app_tela_detalhar.png)
 
 ### Tela de edição
 
 Esta tela contém formulário para criar novo todo ou editar todo existente. Ao apresentar a tela, é verificado se foi passado como parametro dados de um todo existente, caso os parametros existam é então apresentado o formulário para editar o todo fornecido, caso não seja passado um todo então é apresentado um formulário para salvar um novo todo.
 
-![Tela criar](./images/app_tela_criar.png){ width=200px } ![Tela editar](./images/app_tela_editar.png){ width=200px }
+![Tela criar](./images/app_tela_criar.png) ![Tela editar](./images/app_tela_editar.png)
