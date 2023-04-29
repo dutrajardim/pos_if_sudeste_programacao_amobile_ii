@@ -13,3 +13,4 @@ As atividades realizadas serão dispostas com base na estrutura que segue:
 
 Descrição das atividades:
 * [Primaira semana](semana_1/README.md)
+* [Segunda semana](semana_2/README.md)
